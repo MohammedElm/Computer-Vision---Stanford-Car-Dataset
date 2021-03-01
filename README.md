@@ -1,6 +1,8 @@
 # Computer-Vision---Stanford-Car-Dataset-- Classification
 
-In this project, we will build a Neural Network to solve the Car classification problem in the Stanford car dataset, available on https://ai.stanford.edu/~jkrause/cars/car_dataset.html \
+Check Notebook for detailed comments and results. 
+
+In this project, we will build a Neural Network to solve the Car classification problem in the Stanford car dataset, available on https://www.kaggle.com/jutrera/stanford-car-dataset-by-classes-folder  (Download this folder and put it directly in the folder of the notebook to run all experiments).
 
 The dataset is already split into train and test sets.
 
