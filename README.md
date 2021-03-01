@@ -15,3 +15,6 @@ We end up with a directory (cropped data) that contains two folds (Train and Tes
 The main constraint that we do have in this project is that we cannot use pre-trained Deep Convolutional Networks, this means that we restrain ourselves from using a Transfer Learning approach and we do have to train a whole NN from scratch.
 
 We achieve 80% accuracy on the test set.
+
+
+![plot](./training accuracies.png)
