@@ -17,5 +17,4 @@ The main constraint that we do have in this project is that we cannot use pre-tr
 We achieve 80% accuracy on the test set.
 
 
-![plot](./training accuracies.png)
-![Screenshot](training accuracies.png)
+![plot](./training-accuracies.png)
