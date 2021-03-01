@@ -18,3 +18,4 @@ We achieve 80% accuracy on the test set.
 
 
 ![plot](./training accuracies.png)
+![Screenshot](training accuracies.png)
